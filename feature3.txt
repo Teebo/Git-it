@@ -1,1 +1,2 @@
-adding file feature 3
+adding file feature 3 
+included in commit
